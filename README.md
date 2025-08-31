@@ -3,11 +3,18 @@ It includes the essential features in My project that are shown below
 🎶 Linked List Playlist Manager 🎶
 
 This project helped me explore the concepts of:
+
+
 ✅ Doubly Linked List implementation
+
 ✅ Insertion at front & back
+
 ✅ Deletion of nodes (songs)
+
 ✅ Traversal in both directions (Next / Previous)
+
 ✅ Managing current pointer like a real music player
+
 
 📌 __Features implemented__:
 
@@ -22,6 +29,8 @@ This project helped me explore the concepts of:
 __Overview__:
 
 [Head] <-> Song1 <-> Song2 <-> Song3 <-> [Tail]
+
+
              ↑
 
              
@@ -55,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
