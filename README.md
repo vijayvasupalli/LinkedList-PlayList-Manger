@@ -18,13 +18,13 @@ This project helped me explore the concepts of:
 
 📌 __Features implemented__:
 
-1)Add songs (front / back)
+# 1)Add songs (front / back)
 
-2)Delete songs
+# 2)Delete songs
 
-3)Display playlist
+# 3)Display playlist
 
-4)Play current / next / previous song
+# 4)Play current / next / previous song
 
 __Overview__:
 
@@ -64,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
