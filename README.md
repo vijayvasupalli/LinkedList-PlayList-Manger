@@ -5,15 +5,15 @@ It includes the essential features in My project that are shown below
 This project helped me explore the concepts of:
 
 
-✅ Doubly Linked List implementation
+✅ **Doubly Linked List implementation**
 
-✅ Insertion at front & back
+✅ **Insertion at front & back**
 
-✅ Deletion of nodes (songs)
+✅ **Deletion of nodes (songs)**
 
-✅ Traversal in both directions (Next / Previous)
+✅ **Traversal in both directions (Next / Previous)**
 
-✅ Managing current pointer like a real music player
+✅ **Managing current pointer like a real music player**
 
 
 📌 __Features implemented__:
@@ -31,10 +31,10 @@ __Overview__:
 [Head] <-> Song1 <-> Song2 <-> Song3 <-> [Tail]
 
 
-             ↑          ↑
+             ↑         ↑          ↑
 
              
-         Current Song   Next Song
+    previous song   Current Song   Next Song
 
 👍 __Sample Usage__:
 
@@ -64,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
