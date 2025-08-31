@@ -1,4 +1,4 @@
-I'have built a Playlist Manager Project using the Concept of *DOUBLY LINKED LIST* in C++
+I'have built a __Playlist Manager__ Project using the Concept of __DOUBLY LINKED LIST__ in C++
 It includes the essential features in My project that are shown below
 🎶 Linked List Playlist Manager 🎶
 
@@ -9,19 +9,19 @@ This project helped me explore the concepts of:
 ✅ Traversal in both directions (Next / Previous)
 ✅ Managing current pointer like a real music player
 
-📌 Features implemented:
+📌 __Features implemented__:
 
 1)Add songs (front / back)
 2)Delete songs
 3)Display playlist
 4)Play current / next / previous song
 
-Overview:
+__Overview__:
 
 [Head] <-> Song1 <-> Song2 <-> Song3 <-> [Tail]
              ↑
          Current Song
-👍Sample Usage:
+👍 __Sample Usage__:
 
 Enter Song Name: Perfect
 🎶 Song Added At Back: Perfect
@@ -40,7 +40,7 @@ ______________________
 🎧 NEXT song will be... Shape of You
 🕳 Song Deleted: Perfect
 
-📘 Concepts Covered
+📘 __Concepts Covered__
 
 >>Classes & Objects in C++
 
@@ -49,4 +49,5 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
