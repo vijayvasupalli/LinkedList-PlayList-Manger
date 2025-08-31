@@ -57,13 +57,14 @@ ______________________
 
 📘 __Concepts Covered__
 
->>Classes & Objects in C++
+### Classes & Objects in C++
 
->>Pointers and Dynamic Memory Allocation
+### Pointers and Dynamic Memory Allocation
 
->>Doubly Linked List Implementation
+### Doubly Linked List Implementation
 
->>Menu-driven Programs
+### Menu-driven Programs
+
 
 
 
