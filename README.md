@@ -1,4 +1,4 @@
-I'have built a Playlist Manager Project using the Concept of DOUBLY LINKED LIST in C++
+I'have built a Playlist Manager Project using the Concept of *DOUBLY LINKED LIST* in C++
 It includes the essential features in My project that are shown below
 🎶 Linked List Playlist Manager 🎶
 
@@ -49,3 +49,4 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
