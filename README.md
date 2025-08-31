@@ -31,7 +31,7 @@ __Overview__:
 [Head] <-> Song1 <-> Song2 <-> Song3 <-> [Tail]
 
 
-             ↑         ↑         ↑
+               ↑         ↑         ↑
 
              
     previous song   Current Song   Next Song
@@ -64,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
