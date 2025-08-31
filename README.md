@@ -1,6 +1,6 @@
 I'have built a __Playlist Manager__ Project using the Concept of __DOUBLY LINKED LIST__ in C++
 It includes the essential features in My project that are shown below
-🎶 Linked List Playlist Manager 🎶
+**🎶 Linked List Playlist Manager 🎶**
 
 This project helped me explore the concepts of:
 
@@ -64,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
