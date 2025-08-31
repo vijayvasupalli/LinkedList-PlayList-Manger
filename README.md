@@ -52,7 +52,9 @@ Enter Song Name: Shape of You
 ______________________
 
 *🎧 Current Song Playing --> Perfect
+
 🎧 NEXT song will be... Shape of You
+
 🕳 Song Deleted: Perfect*
 
 # 📘 Concepts Covered
@@ -64,6 +66,7 @@ ______________________
 ### Doubly Linked List Implementation
 
 ### Menu-driven Programs
+
 
 
 
