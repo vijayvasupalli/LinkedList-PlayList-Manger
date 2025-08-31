@@ -16,7 +16,7 @@ This project helped me explore the concepts of:
 ✅ **Managing current pointer like a real music player**
 
 
-📌 __Features implemented__:
+### 📌 __Features implemented__:
 
 # 1)Add songs (front / back)
 
@@ -64,6 +64,7 @@ ______________________
 ### Doubly Linked List Implementation
 
 ### Menu-driven Programs
+
 
 
 
