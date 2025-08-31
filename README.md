@@ -51,11 +51,11 @@ Enter Song Name: Shape of You
 2. Shape of You
 ______________________
 
-🎧 Current Song Playing --> Perfect
+*🎧 Current Song Playing --> Perfect
 🎧 NEXT song will be... Shape of You
-🕳 Song Deleted: Perfect
+🕳 Song Deleted: Perfect*
 
-📘 __Concepts Covered__
+# 📘 Concepts Covered
 
 ### Classes & Objects in C++
 
@@ -64,6 +64,7 @@ ______________________
 ### Doubly Linked List Implementation
 
 ### Menu-driven Programs
+
 
 
 
