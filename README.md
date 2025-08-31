@@ -31,10 +31,10 @@ __Overview__:
 [Head] <-> Song1 <-> Song2 <-> Song3 <-> [Tail]
 
 
-             ↑
+             ↑          ↑
 
              
-         Current Song
+         Current Song   Next Song
 
 👍 __Sample Usage__:
 
@@ -64,6 +64,7 @@ ______________________
 >>Doubly Linked List Implementation
 
 >>Menu-driven Programs
+
 
 
 
